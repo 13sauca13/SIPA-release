@@ -1,6 +1,7 @@
 # ⚓ SIPA — Sistema de Generación de IPA
-## Versión actual
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
 Aplicación para la generación automática de **Informes Personales del Alumno (IPA)**, incluyendo creación de Excel y exportación a PDF con firmas.
 
 ---
