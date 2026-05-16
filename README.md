@@ -93,5 +93,4 @@ Desarrollado por **SuperSupervisor**
 ---
 
 ## 🏁 Versión actual
-
-**v1.0.0**
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
